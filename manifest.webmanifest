@@ -1,0 +1,29 @@
+{
+ "name": "Teratai Educare - Edukasi TB dan Pneumonia",
+ "short_name": "Teratai Educare",
+ "description": "Edukasi pasien dan keluarga tentang TB dan pneumonia, Ruang Teratai RSUD Bangil",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "background_color": "#f5f8fa",
+ "theme_color": "#123b52",
+ "lang": "id",
+ "icons": [
+  {
+   "src": "icons/icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "icons/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  },
+  {
+   "src": "icons/icon-maskable-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}
